@@ -29,3 +29,10 @@ The first part should be a namespace designator. Polymer uses "iron", "paper", "
 ### Creating your own component
 
 https://www.polymer-project.org/1.0/docs/tools/polymer-cli#element
+
+```
+mkdir my-el
+polymer init
+```
+
+- choose polymer-2-element
